@@ -28,4 +28,17 @@ Creating simple flask application
 Adding to git
 ```
 git add .
+git commit -m "update"
+git push origin main
+git log
+git status
+git remote -v
 ```
+
+For Heroku
+
+1.HEROKU_EMAIL=ssvgssv135@gmail.com
+2.HEROKU_API_KEY=6685262a-a040-4506-90fb-7ecd7ff3d7dd
+3.HEROKU_API_NAME=creditcardprojectml
+
+
